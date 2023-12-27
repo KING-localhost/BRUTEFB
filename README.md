@@ -18,6 +18,8 @@ $ pip install rich
 
 $ pip install mechanize
 
+$ pip install -r requirements.txt
+
 $ git clone https://github.com/KING-localhost/BRUTEFB.git
 
 $ cd BRUTEFB
