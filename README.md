@@ -20,7 +20,7 @@ $ pip install mechanize
 
 $ git clone https://github.com/KING-localhost/BRUTEFB.git
 
-$ cd BRUTEIG
+$ cd BRUTEFB
 
 $ python fbhack.py
 
