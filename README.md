@@ -30,7 +30,7 @@ $ python fbhack.py
 
 
 # CONTACT
-<a href="https://wa.me/+62895401021050?text=Hallo"><img title="whatsapp" src="https://img.shields.io/badge/contact me-number-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/+62895340289220?text=Hallo"><img title="whatsapp" src="https://img.shields.io/badge/contact me-number-blue?style=for-the-badge&logo=whatsapp"></a>
 <br>
 <br>
 <a href="https://chat.whatsapp.com/LFyNvLb6hHpIhpvhv8a4v7"><img title="whatsapp" src="https://img.shields.io/badge/group-whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
