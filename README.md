@@ -45,7 +45,7 @@ $ python fbhack.py
 #LICENSE
 MIT License
 
-Copyright (c) 2023 Ridho akhmad
+Copyright (c) 2024 KING LOCALHOST
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
