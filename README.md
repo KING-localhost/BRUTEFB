@@ -26,7 +26,7 @@ $ cd BRUTEFB
 
 $ python fbhack.py
 
-![Screenshot_20240219-000128_Termux](https://github.com/KING-localhost/BRUTEFB/assets/71694553/6680c03f-bc44-4628-8568-28bc3bb977d0)
+![Screenshot_20240219-000128_Termux](https://github.com/KING-localhost/BRUTEFB/assets/71694553/9029e1cc-8c65-4778-9896-b326f4f0c952)
 
 # CONTACT
 <a href="https://wa.me/+62895401021050?text=Hallo"><img title="whatsapp" src="https://img.shields.io/badge/contact me-number-blue?style=for-the-badge&logo=whatsapp"></a>
