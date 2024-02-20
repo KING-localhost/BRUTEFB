@@ -24,8 +24,6 @@ $ git clone https://github.com/KING-localhost/BRUTEFB.git
 
 $ cd BRUTEFB
 
-$ pip install -r requirements.txt
-
 $ python fbhack.py
 
 ![Screenshot_20231227-193540_Termux](https://github.com/KING-localhost/BRUTEFB/assets/71694553/466f68ee-b05c-4334-b314-d5868e5ca33f)
