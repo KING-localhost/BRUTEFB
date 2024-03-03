@@ -6,8 +6,6 @@ $ pkg pkg update && upgrade
 
 $ pkg install python
 
-$ pkg install pip
-
 $ pkg install git
 
 $ pip install stdiomask
