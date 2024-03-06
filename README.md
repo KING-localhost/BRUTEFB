@@ -27,10 +27,10 @@ $ python fbhack.py
 ![Screenshot_20240219-000128_Termux](https://github.com/KING-localhost/BRUTEFB/assets/71694553/9029e1cc-8c65-4778-9896-b326f4f0c952)
 
 # CONTACT
-<a href="https://wa.me/+62895401021050?text=Hallo"><img title="whatsapp" src="https://img.shields.io/badge/contact me-number-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/6289507540460?text=Hallo"><img title="whatsapp" src="https://img.shields.io/badge/contact me-number-blue?style=for-the-badge&logo=whatsapp"></a>
 <br>
 <br>
-<a href="https://wa.me/+62895340289220?text=Hallo"><img title="whatsapp" src="https://img.shields.io/badge/group-whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/Gre5Lefv2aDLwXEfyMUpiu"><img title="whatsapp" src="https://img.shields.io/badge/group-whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 
 # DONATION
 <a href="https://paypal.me/Hengkara?locale.x=id_ID"><img title="paypal" src="https://img.shields.io/badge/paypal-blue?style=for-the-badge&logo=paypal"></a> 
