@@ -22,6 +22,8 @@ $ git clone https://github.com/KING-localhost/BRUTEFB.git
 
 $ cd BRUTEFB
 
+$ git pull
+
 $ python fbhack.py
 
 ![Screenshot_20240219-000128_Termux](https://github.com/KING-localhost/BRUTEFB/assets/71694553/9029e1cc-8c65-4778-9896-b326f4f0c952)
